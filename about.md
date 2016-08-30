@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "One of a kind."
+description: "世界的尽头会有风浪"
 header-img: "img/orange.jpg"
 ---
 
