@@ -53,7 +53,6 @@ header-img: "img/orange.jpg"
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
 
 - [微博@CnFeat](http://weibo.com/207775270)
 
