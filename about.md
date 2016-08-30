@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p><img src="http://3.bp.blogspot.com/_4ngpCZv0sNo/SiwO7f3LdzI/AAAAAAAAB5U/yobvWk1nrhg/s1600-h/g7719.png" align="center"></p>
+    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
 我是蔡千杭，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
