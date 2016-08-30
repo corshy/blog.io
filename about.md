@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
-header-img: "img/zhihu.jpg"
+description: "One of a kind."
+header-img: "img/orange.jpg"
 ---
 
 
