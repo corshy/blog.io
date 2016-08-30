@@ -54,17 +54,12 @@ header-img: "img/orange.jpg"
 ###联系
 
 
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
+- [微博@caicot](http://weibo.com/1196377937)
+- 
 
 
 
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
+
 
 
 
